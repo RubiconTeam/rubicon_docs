@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Rubicon Engine'
+copyright = '2024-Present, Rubicon Team'
+author = 'Rubicon Team'
 
 release = '0.1'
 version = '0.1.0'
