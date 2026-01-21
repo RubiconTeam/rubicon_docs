@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Repository for the Rubicon Engine docs
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+The docs are currently under construction
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://rubicon.readthedocs.io
