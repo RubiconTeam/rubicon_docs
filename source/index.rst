@@ -1,14 +1,11 @@
-.. rubicon_docs documentation master file, created by
-   sphinx-quickstart on Sat Jan 31 12:21:32 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-rubicon_docs documentation
+Welcome to the Rubicon Engine documentation!
 ==========================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+*This page is EXTREMELY underdeveloped and will be developed further soon.*
+
+Rubicon Engine is a fully open-source, rhythm game engine built in `Godot Engine <https://godotengine.org>`_
+that includes functionality for characters, maps and levels.
+Made with ease of use, performance, and extreme flexibility first.
 
 
 .. toctree::

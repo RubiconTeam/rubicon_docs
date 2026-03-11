@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'rubicon_docs'
-copyright = '2026, legole0'
+project = 'Rubicon'
+copyright = '2026, Rubicon Team'
 author = 'legole0'
 
 # -- General configuration ---------------------------------------------------
